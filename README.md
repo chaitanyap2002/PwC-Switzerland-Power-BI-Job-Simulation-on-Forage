@@ -1,4 +1,4 @@
-**PwC Virtual Case Experience: Power BI in Data Analytics******
+**PwC Virtual Case Experience: Power BI in Data Analytics**
 
 Welcome to the PwC Virtual Case Experience repository! Here, you will find the Power BI dashboards developed for the three separate tasks at TheForage. These tasks are designed to provide a hands-on experience with real-world datasets, enabling you to delve into business scenarios, identify patterns, assess risks, and uncover opportunities in data. The ultimate goal is to transform raw data into compelling, actionable insights.
 
